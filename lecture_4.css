@@ -76,3 +76,12 @@ footer a {
     float: left;
     color: white;
 }
+.founder_image{
+    border-radius: 50%;
+    border: 1px solid black;
+}
+.founder_introduction{
+    text-align: justify;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1em;
+}
