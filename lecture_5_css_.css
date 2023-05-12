@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h3{
+    color:rebeccapurple;
+}
+p{
+    color: red;
+}
+.class-selector{
+    color: blue;
+}
+
+li p{
+    color: chocolate;
+}
+.social-links:hover{
+text-decoration: none;
+text-transform: capitalize;
+color: blue;
+text-align: center;
+font-size: 2em;
+margin: 30px;
+}
+#id-selector{
+    background-color: blue;
+    color: white;
+}
+li[class="a"]{
+    background-color: red;
+    color: white;
+    font-size: 3em;
+}
